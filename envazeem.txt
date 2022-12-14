@@ -1,0 +1,7 @@
+mongodb+srv://@cluster0.mdjoahd.mongodb.net/makeupminor?retryWrites=true&w=majority
+
+
+mongodb+srv://Kiran_N:kiranaregal@dugc.eclwpwe.mongodb.net/Withdrawal?retryWrites=true&w=majority
+
+
+azeemj:Azeem123
